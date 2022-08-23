@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ 
+ ul {
+     display: flex;
+     justify-content: space-between;
+     list-style-type: none;
+     align-items: center;
+     padding: 16px;
+ }
+
+ a {
+    color: white;
+    text-decoration: none ;
+}
+
+img {
+    border: 5px solid rgb(34, 161, 204);
+}
+
+nav a:hover{
+    color: blue;
+}
